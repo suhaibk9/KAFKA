@@ -1,6 +1,3 @@
-Here’s the clean version of the `README.md` file you can directly copy-paste:
-
-
 # Kafka Payment Processing System
 
 ## To Run
